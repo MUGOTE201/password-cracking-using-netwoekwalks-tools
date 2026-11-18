@@ -61,8 +61,47 @@ when i try to open the pdf3, it requests for password
 
 <img width="1139" height="554" alt="Screenshot 2026-11-18 122934" src="https://github.com/user-attachments/assets/79f192ed-c229-4caf-b37c-13a185b68415" />
 
+
 on inserting the cracked password, the pdf3 opens
 
 <img width="1364" height="803" alt="Screenshot 2026-11-18 123012" src="https://github.com/user-attachments/assets/f8d93a9e-04f7-4f54-8632-6630c90b201e" />
+
+How to set up john the ripper lab
+follow the steps below
+Download John the Ripper from official website on your windows PC
+https://drive.google.com/drive/u/1/folders/1aHtgOh7U9mQhkN8VHU7ctTyaDg5KbuJx
+Download Johnny GUI from official website:
+https://drive.google.com/drive/u/1/folders/1aHtgOh7U9mQhkN8VHU7ctTyaDg5KbuJx
+Run the setup file & install Johnny as shown in below:
+
+<img width="859" height="480" alt="Screenshot 2026-11-17 223106" src="https://github.com/user-attachments/assets/f18b450d-c58a-4163-acfe-ff54b9a616c4" />
+
+Open the hash website & upload your pdf file to find its hash:
+
+<img width="1370" height="686" alt="Screenshot 2026-11-18 144249" src="https://github.com/user-attachments/assets/612cdcea-3507-4b9e-876e-5bb9d90960cd" />
+john.exe
+<img width="869" height="387" alt="Screenshot 2026-11-18 144948" src="https://github.com/user-attachments/assets/3a6beb2c-2f42-47fb-8835-76e8772b2308" />
+
+Open notepad:
+
+<img width="1098" height="740" alt="Screenshot 2026-11-18 143908" src="https://github.com/user-attachments/assets/d0f15a5d-decc-4f78-b6a1-80c176932748" />
+
+<img width="1175" height="343" alt="Screenshot 2026-11-18 144131" src="https://github.com/user-attachments/assets/fc3e06ab-51df-4908-9c1a-3c52553b17ac" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
